@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cottage_guard</string>
+    <string name="checker_channel_description">Checker channel</string>
+    <string name="checker_message">checking defence status</string>
+    <string name="connection_preferences">Connection preferences</string>
+    <string name="settings_show_menu_message">Show settings</string>
+    <string name="socket_connected_message">socket connected</string>
+    <string name="socket_connection_lost_message">Socket connection lost</string>
+    <string name="alert_received_channel_description">Received alerts</string>
+    <string name="alert_received_title">Alert received on %s!</string>
+    <string name="received_alert_string">Received alert on %s</string>
+    <string name="alert_icon_desc">alert icon</string>
+    <string name="alert_accepted_message">Accepted</string>
+</resources>

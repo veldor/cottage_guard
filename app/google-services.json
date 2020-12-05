@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729110889477",
+    "firebase_url": "https://oblepiha-guard.firebaseio.com",
+    "project_id": "oblepiha-guard",
+    "storage_bucket": "oblepiha-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729110889477:android:3217373dcc67b5367cc86c",
+        "android_client_info": {
+          "package_name": "net.veldor.cottage_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729110889477-kga5anc9tf718rka5l0k8gesk3pjveag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvt3lcbR1Pu8xKYStMGZO14nqDE9uTtco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729110889477-kga5anc9tf718rka5l0k8gesk3pjveag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
